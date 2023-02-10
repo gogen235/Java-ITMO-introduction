@@ -1,4 +1,4 @@
-# Java-ITMO-introduction
+# java-ITMO-introduction
 Домашние задания с курса Введение в программирование(Java).
 ## Условия:
 ### wortStat
